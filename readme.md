@@ -1,0 +1,7 @@
+- Existem dois projetos: Proauto e Proauto-back
+- Proauto é a aplicação front-end. Foi construída usando react. 
+- Proauto-back é o back-end da aplicação e foi desenvolvido em nodeJs.
+- Antes de executar ambas as aplicações, deve ser executado o comando 'yarn install' dentro das pastas dos projetos, separadamente.
+- Após isso, o backend deve ser executado primeiro e é necessário que fique executando em segundo plano. Logo após deve ser executado o frontend. Para executá-los, é necessário a execução do comando 'yarn start', separadamente nas pastas dos projetos.
+- Para realizar o login, o cpf cadastrado é: 12345678900 e a placa é: PRO1234.
+- Para se cadastrar um usuário, deve ser utilizado o Postman ou o Insomnia, seguindo o Schema detalhado no código do Model de User do backend.
